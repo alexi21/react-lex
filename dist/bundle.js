@@ -1105,7 +1105,6 @@ var styles = {
   whiteSpace: 'pre',
   fontFamily: 'Menlo, Consolas, monospace',
   fontSize: '13px',
-  position: 'fixed',
   zIndex: 9999,
   padding: '10px',
   left: 0,
