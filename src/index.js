@@ -143,12 +143,12 @@ class LexChat extends React.Component {
     }
 
     const headerRectStyle = {
-      backgroundColor: '#000000', 
-      width: '408px', 
+      backgroundColor: '#1e74ff',
+      width: '408px',
       height: '40px',
       textAlign: 'center',
       paddingTop: 12,
-      paddingBottom: -12,
+      paddingBottom: '36px',
       color: '#FFFFFF',
       fontSize: '24px'
     }
